@@ -6,6 +6,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 # --- Main Application Logic ---
 
+
 def main():
     """
     Main function to run the data preparation, model training, and evaluation.
